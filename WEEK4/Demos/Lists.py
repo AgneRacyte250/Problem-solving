@@ -30,6 +30,23 @@ print(bleh)
 bleh.insert(4,"onions ")
 print(bleh)
 #remove
-bleh.remove("Carrots")
-bleh.remove("Tomatos")
+if "Carrot" in bleh:
+    bleh.remove("Carrots")
+if "Tomato" in bleh:
+    bleh.remove("Tomatos")
+bleh.remove("eggs")
 print(bleh)
+
+# Remove items by index
+x = bleh.pop(5) # Return that value
+print(x)
+print(bleh)
+#alternative way of deleting by index
+del bleh[7]
+print(bleh)
+#cheking the tipy of data/trefersing the list
+lista = ["Fred",56,True, 99.4,"Potato", True, 82]
+for item in lista:
+    if isinstance(item, int):
+        sum += item
+print(sum)
