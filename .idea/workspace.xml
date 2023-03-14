@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67ad37a3-2a8e-424d-9a06-bd101aa3901f" name="Changes" comment="data structure">
-      <change afterPath="$PROJECT_DIR$/WEEK4/Activities/Adding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK4/Demos/Tuple.py" afterDir="false" />
+    <list default="true" id="67ad37a3-2a8e-424d-9a06-bd101aa3901f" name="Changes" comment="W4 Tuples examples">
+      <change afterPath="$PROJECT_DIR$/WEEK4/Demos/Students.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK4/Demos/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK4/Demos/Lists.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
       <recent name="C:\Users\agnes\PycharmProjects\Problem-solving\Week 3\Demos_week3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Adding">
+  <component name="RunManager" selected="Python.Students">
     <configuration name="Adding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,6 +81,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK4/Demos/Lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Problem-solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK4/Demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK4/Demos/Students.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,6 +154,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Students" />
         <item itemvalue="Python.Adding" />
         <item itemvalue="Python.Tuple" />
         <item itemvalue="Python.Lists" />
@@ -187,12 +207,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678707123277</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="W4 list data Function Adding">
+      <created>1678790267147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678790267147</updated>
+    </task>
+    <task id="LOCAL-00007" summary="W4 Tuples examples">
+      <created>1678790435398</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678790435398</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed folders" />
     <MESSAGE value="data structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="data structure" />
+    <MESSAGE value="W4 list data Function Adding" />
+    <MESSAGE value="W4 Tuples examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="W4 Tuples examples" />
   </component>
 </project>
