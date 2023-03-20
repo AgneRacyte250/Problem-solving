@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67ad37a3-2a8e-424d-9a06-bd101aa3901f" name="Changes" comment="Added code to demonstrate how to populate a list">
-      <change afterPath="$PROJECT_DIR$/Training/Counting_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training/Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training/arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training/occurrence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training/phone_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training/scores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training/swap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training/tes_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training/text.csv" afterDir="false" />
+    <list default="true" id="67ad37a3-2a8e-424d-9a06-bd101aa3901f" name="Changes" comment="Training">
+      <change afterPath="$PROJECT_DIR$/WEEK 5/Demos/Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5/Demos/sets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +28,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Mjf9bEFh9P5uns3Flv85Tzpznw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -56,7 +53,7 @@
       <recent name="C:\Users\agnes\PycharmProjects\Problem-solving\Week 3\Demos_week3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.List_training">
+  <component name="RunManager" selected="Python.Dictionary">
     <configuration name="Counting_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,6 +67,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Training/Counting_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Problem-solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK 5/Demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK 5/Demos/Dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK 5/Demos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Training/scores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK 5/Demos/sets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,34 +159,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tes_csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Problem-solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Training" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\agnes\Desktop\Folders\cs year 1\PS phyton\PycharmProjects\Problem-solving\Training\tes_csv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dictionary" />
+        <item itemvalue="Python.sets" />
         <item itemvalue="Python.List_training" />
         <item itemvalue="Python.Counting_list" />
         <item itemvalue="Python.tes_csv (1)" />
-        <item itemvalue="Python.tes_csv" />
-        <item itemvalue="Python.scores" />
       </list>
     </recent_temporary>
   </component>
@@ -269,10 +266,18 @@
       <option name="project" value="LOCAL" />
       <updated>1678997439774</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Training">
+      <created>1679080506214</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679080506214</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="changed folders" />
     <MESSAGE value="data structure" />
     <MESSAGE value="W4 list data Function Adding" />
@@ -280,6 +285,7 @@
     <MESSAGE value="Added code to demonstrate&#10;how to index a list" />
     <MESSAGE value="Added code to demonstrate how to iterate a list" />
     <MESSAGE value="Added code to demonstrate how to populate a list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to demonstrate how to populate a list" />
+    <MESSAGE value="Training" />
+    <option name="LAST_COMMIT_MESSAGE" value="Training" />
   </component>
 </project>
