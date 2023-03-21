@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67ad37a3-2a8e-424d-9a06-bd101aa3901f" name="Changes" comment="Training">
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Demos/Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Demos/sets.py" afterDir="false" />
+    <list default="true" id="67ad37a3-2a8e-424d-9a06-bd101aa3901f" name="Changes" comment="WEEK 5 Lecture: Data struct">
+      <change afterPath="$PROJECT_DIR$/WEEK 5/Activities/simple_set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       <recent name="C:\Users\agnes\PycharmProjects\Problem-solving\Week 3\Demos_week3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dictionary">
+  <component name="RunManager" selected="Python.simple_set">
     <configuration name="Counting_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tes_csv (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="simple_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK 5/Activities" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Training/tes_csv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK 5/Activities/simple_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.simple_set" />
         <item itemvalue="Python.Dictionary" />
         <item itemvalue="Python.sets" />
         <item itemvalue="Python.List_training" />
         <item itemvalue="Python.Counting_list" />
-        <item itemvalue="Python.tes_csv (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679080506214</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="WEEK 5 Lecture: Data struct">
+      <created>1679311824461</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679311824461</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,6 +292,7 @@
     <MESSAGE value="Added code to demonstrate how to iterate a list" />
     <MESSAGE value="Added code to demonstrate how to populate a list" />
     <MESSAGE value="Training" />
-    <option name="LAST_COMMIT_MESSAGE" value="Training" />
+    <MESSAGE value="WEEK 5 Lecture: Data struct" />
+    <option name="LAST_COMMIT_MESSAGE" value="WEEK 5 Lecture: Data struct" />
   </component>
 </project>
