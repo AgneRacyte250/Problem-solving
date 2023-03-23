@@ -1,6 +1,8 @@
 def likelihood():
     likelihoods = (50, 38, 27, 99, 4)
-    print(f"Minimum likelihood of falling: {min(likelihoods)}%")
-    print(f"Maximum likelihood of falling {max(likelihoods)}%")
+    return max(likelihoods), min(likelihoods)
 
-likelihood()
+
+
+print(f"Minimum likelihood of falling: {likelihood()[1]}%")
+print(f"Maximum likelihood of falling {likelihood()[0]}%")
