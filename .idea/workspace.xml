@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67ad37a3-2a8e-424d-9a06-bd101aa3901f" name="Changes" comment="Added code to demonstrate a simple set.">
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Demos/shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 5/Demos/tinder.py" afterDir="false" />
+    <list default="true" id="67ad37a3-2a8e-424d-9a06-bd101aa3901f" name="Changes" comment="Nested tuples">
+      <change afterPath="$PROJECT_DIR$/WEEK 5/Activities/set_from.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5/Activities/sorted_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 5/Dictionary/W6_dict_structor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +54,8 @@
       <recent name="C:\Users\agnes\PycharmProjects\Problem-solving\Week 3\Demos_week3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.shop">
-    <configuration name="Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sorted_list">
+    <configuration name="W6_dict_structor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK 5/Demos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK 5/Dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK 5/Demos/Dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK 5/Dictionary/W6_dict_structor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK 5/Demos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK4/Activities" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK 5/Demos/sets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK4/Activities/function_tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nested_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK 5/Demos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK4/Activities" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK 5/Demos/shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK4/Activities/nested_tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="set_from" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK 5/Activities/simple_set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK 5/Activities/set_from.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tinder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sorted_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK 5/Demos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK 5/Activities" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK 5/Demos/tinder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK 5/Activities/sorted_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.shop" />
-        <item itemvalue="Python.tinder" />
-        <item itemvalue="Python.simple_set" />
-        <item itemvalue="Python.Dictionary" />
-        <item itemvalue="Python.sets" />
+        <item itemvalue="Python.sorted_list" />
+        <item itemvalue="Python.W6_dict_structor" />
+        <item itemvalue="Python.set_from" />
+        <item itemvalue="Python.function_tuples" />
+        <item itemvalue="Python.nested_tuples" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +288,42 @@
       <option name="project" value="LOCAL" />
       <updated>1679391238907</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Demos">
+      <created>1679398284800</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679398284800</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added code to demonstrate a simple tuple.">
+      <created>1679576444908</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679576444908</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added code to demonstrate how to return a tuple from a function.&quot;.">
+      <created>1679578059201</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679578059201</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Improved">
+      <created>1679579693047</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679579693047</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Nested tuples">
+      <created>1679579719977</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679579719977</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -302,6 +338,22 @@
     <MESSAGE value="Training" />
     <MESSAGE value="WEEK 5 Lecture: Data struct" />
     <MESSAGE value="Added code to demonstrate a simple set." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code to demonstrate a simple set." />
+    <MESSAGE value="Demos" />
+    <MESSAGE value="Added code to demonstrate a simple tuple." />
+    <MESSAGE value="Added code to demonstrate how to return a tuple from a function.&quot;." />
+    <MESSAGE value="Improved" />
+    <MESSAGE value="Nested tuples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nested tuples" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WEEK 5/Activities/sorted_list.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
