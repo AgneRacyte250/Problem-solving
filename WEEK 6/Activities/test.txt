@@ -1,0 +1,5 @@
+This is a test for the lesson, We can also read only a few characters by supplying an appropriate value to the method read.
+ 
+It is often useful to retrieve all the lines in a file as a list using the method readlines. Note that this will also read in the end of line (\n) character which can be removed using the method strip of string on each line:
+We can also read a single line using the method readline. Note that this will include the end of line character (\n).
+Alternatively, we can loop through the file line by line. Note that this will include the end of line character (\n).
