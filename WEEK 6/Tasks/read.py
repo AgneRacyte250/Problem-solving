@@ -11,5 +11,6 @@ def search(file_name):
             print(f"Looked in {location.strip()}")
     print("...Done!")
 def run():
-    search('Loacation.txt')
+    #if the file is the other directory file_path = 'C:/Users/username/Desktop/data/files/txt/Location.txt'
+    search('Loacation.txt') # file_path
 run()
