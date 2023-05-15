@@ -2,25 +2,31 @@ from human import Human
 from robot import Robot
 
 class Planet:
+
     def __init__(self):
-        self.humans = []
-        self.robots = []
+        self.inhabitants = {"Humans": [], "Robots":[]}
+
     def __str__(self):
-        return f"This planet contains \nhumans: {self.humans}\n Robots: {self.robots}"
+        return f"This planet contains\nhumans: {self.inhabitants['Humnas']}\nrobots:{self.inhabitants['Robots']}"
+
     def __repr__(self):
-        return f"Planet(Humans = {self.humans}, Robots ={self.robots})"
-    def add_human(self, hum):
-        self.humans.append(hum)
-    def remove_human(self, hum):
-        if hum in self.humans:
-            self.humans.remove(hum)
+        return f"Planet(humans = {self.inhabitants['Humans']}, robots = {self.inhabitants['Robots']})"
 
-    def add_robot(self, rob):
-        self.robots.append(rob)
+    def add(self, inh):
+        if isinstance(inh, Human):
+            self.inhabitants["Humans"].append(inh)
+        elif isinstance(inh, Robot):
+            self.inhabitants["Robots"].append(inh)
 
-    def remove_robot(self, rob):
-        if rob in self.robots:
-            self.robots.remove(rob)
+    def remove(self, inh):
+        if isinstance(inh, Human):
+            if inh in self.inhabitants["Humans"]:
+                self.inhabitants["Humans"].remove(inh)
+        elif isinstance(inh, Robot):
+            if inh in self.inhabitants["Robots"]:
+                self.inhabitants["Robots"].remove(inh)
+
+
 if __name__ == "__main__":
     h1 = Human()
     h2 = Human()
@@ -28,16 +34,14 @@ if __name__ == "__main__":
     r2 = Robot()
     r3 = Robot()
     earth = Planet()
-    earth.add_human(h1)
-    earth.add_robot(r1)
-    print(earth)
-    print("-"*28)
-    earth.add_robot(r1)
     earth.add_human(h2)
+    earth.add_robot(r1)
     print(earth)
-    print("-" * 28)
+    print("-"*20)
+    earth.add_human(h1)
+    earth.add_robot(r3)
+    print(earth)
+    print("-"*20)
+    earth.add_robot(r2)
     earth.remove_human(h2)
     print(earth)
-
-
-
